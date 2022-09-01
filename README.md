@@ -5,7 +5,10 @@ I love to explore new technologies and leverage them to solve real-life problems
 <br/>
 
 <p align="center"><b>Should you want to know more about me, feel free to read below!</b></p>
-![](https://komarev.com/ghpvc/?username=NicoCastagnet&label=PROFILE+VIEWS)
+
+<p align="center">
+![](https://komarev.com/ghpvc/?username=NicoCastagnet&color=blue)
+</p>
 
 ## 💻 **Technology Stack**
 
