@@ -1,8 +1,6 @@
-# ✌🏻 Hey! I'm Mateo Filip
+# ✌🏻 Hey! I'm Nicolás Castagnet
 
-![Hello there! I'm Mateo](assets/BANNER.gif)
-
-**I'm a software developer from Argentina, whose passions are both coding and learning whatever I can. I have a Full Stack web development background, though I find myself leaning in favour of the front-end side of things. I want to keep growing more and more in the tech world, developing solutions for all types of problems people in the planet may have, meeting spectacular people to make teams with and learn from, while also growing both as a professional and as a person.**
+**I'm a software developer from Argentina. I have a Full Stack web development background, though I find myself leaning in favour of the front-end side of things. I want to keep growing more and more in the tech world, developing solutions for all types of problems people in the planet may have, meeting spectacular people to make teams with and learn from, while also growing both as a professional and as a person.**
 
 **Should you want to know more about me, feel free to read below!**
 
@@ -80,5 +78,5 @@
 
 ## 🍂 **Contact Me!**
 
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mateofernandofilip@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateofilip/)
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicolascastagnet002@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nicolas-castagnet)
