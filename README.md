@@ -85,7 +85,7 @@ I love to explore new technologies and leverage them to solve real-life problems
 </table>
 
 ## 💡 My GitHub stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=github_dark&show_icons=true)
 
 ## 📩 **Lets talk!**
 
