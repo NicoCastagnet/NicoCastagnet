@@ -55,6 +55,12 @@
       </a>
       <br>Node.js
     </td>
+    <td align="center" width="100">
+      <a href="#">
+        <img src="https://freesvg.org/img/1544136002.png" width="50" height="50" alt="Soon" />
+      </a>
+      <br>Soon...
+    </td>
   </tr>
 </table>
 
