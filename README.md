@@ -34,12 +34,6 @@
       </a>
       <br>Sass
     </td>
-    <td align="center"  width="100">
-      <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="50" height="50" alt="Tailwind CSS" />
-      </a>
-      <br>Tailwind CSS
-    </td>
 
   </tr>
     <td align="center" width="100">
@@ -60,18 +54,6 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="50" height="50" alt="NodeJS" />
       </a>
       <br>Node.js
-    </td>
-    <td align="center" width="100"> 
-      <a href="#" >
-        <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="50" height="50" alt="ExpressJS" />
-      </a>
-      <br>Express.js
-    </td>
-    <td align="center" width="100">
-      <a href="#">
-        <img src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/psql.png" width="50" height="50" alt="Postgresql" />
-      </a>
-      <br>PostgreSQL
     </td>
   </tr>
 </table>
