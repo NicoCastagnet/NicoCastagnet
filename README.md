@@ -1,3 +1,5 @@
+<img align="center" alt="Banner img" width="auto" src="Banner.jpg">
+
 # ✌🏻 Hey! I'm Nicolás Castagnet
 
 **I'm a software developer from Argentina. I have a Full Stack web development background, though I find myself leaning in favour of the front-end side of things. I want to keep growing more and more in the tech world, developing solutions for all types of problems people in the planet may have, meeting spectacular people to make teams with and learn from, while also growing both as a professional and as a person.**
