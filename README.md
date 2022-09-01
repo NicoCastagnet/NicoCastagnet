@@ -4,9 +4,7 @@
 
 **Should you want to know more about me, feel free to read below!**
 
---
-
-## 🍂 **Languages & Tools**
+## 💻 **Languages & Tools**
 
 <table align="center">
   <tr>
@@ -64,7 +62,7 @@
   </tr>
 </table>
 
-## 🍂 **Contact Me!**
+## 📩 **Lets talk!**
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicolascastagnet002@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nicolas-castagnet)
