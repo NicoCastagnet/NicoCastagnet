@@ -1,14 +1,12 @@
-<img align="center" alt="Banner img" width="auto" src="Banner.jpg">
+<img align="center" alt="Banner img" width="auto" src="Banner2.jpg">
 
-# ✌🏻 Hey! I'm Nicolás Castagnet
+<div align="center">I'm a software student 🎓 from Argentina. I am a passionate learner who is always willing to learn and work across technologies and domains. 
+I love to explore new technologies and leverage them to solve real-life problems. I am currently into Full Stack Web Developer and working on improve my learned skills 🤓.</div>
+<br/>
 
-**I'm a software developer from Argentina. I have a Full Stack web development background, though I find myself leaning in favour of the front-end side of things. I want to keep growing more and more in the tech world, developing solutions for all types of problems people in the planet may have, meeting spectacular people to make teams with and learn from, while also growing both as a professional and as a person.**
+<p align="center"><b>Should you want to know more about me, feel free to read below!</b></p>
 
-**Should you want to know more about me, feel free to read below!**
-
-#
-
-## 💻 **Languages & Tools**
+## 💻 **Technology Stack**
 
 <table align="center">
   <tr>
@@ -59,12 +57,35 @@
     </td>
     <td align="center" width="100">
       <a href="#">
-        <img src="https://freesvg.org/img/1544136002.png" width="50" height="50" alt="Soon" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50" alt="Soon" />
       </a>
-      <br>Soon...
+      <br>Bootstrap
+    </td>
+  </tr>
+    <tr>
+    <td align="center" width="100">
+      <a href="#">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="HTML5" />
+      </a>
+      <br>Git
+    </td>
+    <td align="center" width="100">
+      <a href="#">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="CSS3" />
+      </a>
+      <br>Github
+    </td>
+    <td align="center" width="100">
+      <a href="#">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="JavaScript" />
+      </a>
+      <br>MySQL
     </td>
   </tr>
 </table>
+
+## 💡 My GitHub stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 
 ## 📩 **Lets talk!**
 
