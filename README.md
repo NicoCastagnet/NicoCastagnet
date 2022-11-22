@@ -1,14 +1,14 @@
 <img align="center" alt="My-banner" width="auto" src="Banner.png">
 
-<h1>Hi! I'm Nicolás Castagnet 👨🏽‍💻 Front-End developer</h1>
+<h1 align="center">Hi! I'm Nicolás Castagnet 👨🏽‍💻 Front-End developer</h1>
 
 <div align="center">I am a passionate learner who is always willing to learn and work across technologies and domains. 
 I love to explore new technologies and leverage them to solve real-life problems.</div>
 
+<br/>
 <div align="center" id="badges">
   <img src="https://komarev.com/ghpvc/?username=NicoCastagnet&style=flat-square&color=blue" alt=""/>
 </div>
-
 <br/>
 
 <p align="center"><b>Should you want to know more about me, feel free to read below!</b></p>
@@ -92,6 +92,7 @@ I love to explore new technologies and leverage them to solve real-life problems
 </table>
 
 ## 💡 My GitHub stats
+<div align="center">
 <a href="https://github.com/NicoCastagnet">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NicoCastagnet&theme=github_dark&show_icons=true"/>
   </a>
@@ -99,8 +100,9 @@ I love to explore new technologies and leverage them to solve real-life problems
   <a href="https://github.com/NicoCastagnet">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicoCastagnet&theme=dark&layout=compact"/>
   </a>
+  </div>
 
 ## 📩 **Lets talk!**
 
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicolascastagnet002@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nicolas-castagnet)
+[![Gmail](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=nicolascastagnet002@gmail.com)](mailto:nicolascastagnet002@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicolas-castagnet/)
