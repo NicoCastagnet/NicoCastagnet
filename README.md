@@ -2,7 +2,7 @@
 
 <h1>¡Hi! I'm Nicolás Castagnet 👨🏻‍💻</h1>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" margin="0 0 50px 0" alt="Computador iuriCode">
+<img src="./left.png" min-width="400px" max-width="400px" width="400px" align="right" margin="0 0 50px 0" alt="Computador iuriCode">
 
 <h3>:zap: About me!</h3>
   
