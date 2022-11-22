@@ -1,6 +1,6 @@
 <img align="center" alt="my-banner" width="auto" src="Banner.png">
 
-<h1>Hi! I'm Nicolás Castagnet</h1>
+<h1 align="center">Hi! I'm Nicolás Castagnet 👨🏽‍💻 Front-End developer.</h1>
 
 <div align="center">I am a passionate learner who is always willing to learn and work across technologies and domains. 
 I love to explore new technologies and leverage them to solve real-life problems.</div>
