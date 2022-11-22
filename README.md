@@ -92,8 +92,13 @@ I love to explore new technologies and leverage them to solve real-life problems
 </table>
 
 ## 💡 My GitHub stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicoCastagnet&theme=github_dark&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicoCastagnet&theme=dark&layout=compact)
+<a href="https://github.com/NicoCastagnet">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NicoCastagnet&theme=github_dark&show_icons=true"/>
+  </a>
+  
+  <a href="https://github.com/NicoCastagnet">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicoCastagnet&theme=dark&layout=compact"/>
+  </a>
 
 ## 📩 **Lets talk!**
 
