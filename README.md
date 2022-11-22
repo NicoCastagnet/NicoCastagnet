@@ -102,7 +102,7 @@ I love to explore new technologies and leverage them to solve real-life problems
   </a>
   
   <a href="https://github.com/NicoCastagnet">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=NicoCastagnet"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=NicoCastagnet&theme=dark"/>
   </a>
   </div>
 
