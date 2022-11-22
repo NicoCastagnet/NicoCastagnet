@@ -49,7 +49,7 @@ I love to explore new technologies and leverage them to solve real-life problems
     </td>
     <td align="center" width="100">
       <a href="#">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50" alt="Soon" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="50" height="50" alt="Soon" />
       </a>
       <br>Figma
     </td>
