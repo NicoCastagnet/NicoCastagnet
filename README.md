@@ -89,7 +89,7 @@ I love to explore new technologies and leverage them to solve real-life problems
     </td>
     <td align="center" width="100">
       <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="50" height="50" alt="NodeJS" />
+        <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="50" height="50" alt="NodeJS" />
       </a>
       <br>Next.js
     </td>
@@ -122,7 +122,7 @@ I love to explore new technologies and leverage them to solve real-life problems
     </td>
   <td align="center" width="100">
       <a href="#">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="JavaScript" />
+        <img src="https://cdn.worldvectorlogo.com/logos/prisma-3.svg" width="50" height="50" alt="JavaScript" />
       </a>
       <br>Prisma
     </td>
