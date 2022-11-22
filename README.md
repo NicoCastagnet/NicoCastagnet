@@ -29,20 +29,45 @@ I love to explore new technologies and leverage them to solve real-life problems
       </a>
       <br>CSS3
     </td>
-    <td align="center" width="100">
-      <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="50" height="50" alt="JavaScript" />
-      </a>
-      <br>JavaScript
-    </td>
     <td align="center"  width="100">
       <a href="#">
         <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" width="50" height="50" alt="Sass" />
       </a>
       <br>Sass
     </td>
-
+    <td align="center"  width="100">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" width="50" height="50" alt="Sass" />
+      </a>
+      <br>Tailwind
+    </td>
+    <td align="center" width="100">
+      <a href="#">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50" alt="Soon" />
+      </a>
+      <br>Bootstrap
+    </td>
+    <td align="center" width="100">
+      <a href="#">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50" alt="Soon" />
+      </a>
+      <br>Figma
+    </td>
   </tr>
+  
+  <tr>
+    <td align="center" width="100">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="50" height="50" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="100">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="50" height="50" alt="JavaScript" />
+      </a>
+      <br>TypeScript
+    </td>
     <td align="center" width="100">
       <a href="#">
         <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="50" height="50" alt="React" />
@@ -64,12 +89,13 @@ I love to explore new technologies and leverage them to solve real-life problems
     </td>
     <td align="center" width="100">
       <a href="#">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50" alt="Soon" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="50" height="50" alt="NodeJS" />
       </a>
-      <br>Bootstrap
+      <br>Next.js
     </td>
   </tr>
-    <tr>
+  
+   <tr>
     <td align="center" width="100">
       <a href="#">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="HTML5" />
@@ -92,51 +118,15 @@ I love to explore new technologies and leverage them to solve real-life problems
       <a href="#">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="JavaScript" />
       </a>
-      <br>MySQL
-    </td>
-  <td align="center" width="100">
-      <a href="#">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="JavaScript" />
-      </a>
-      <br>MySQL
-    </td>
-  <td align="center" width="100">
-      <a href="#">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="JavaScript" />
-      </a>
-      <br>MySQL
-    </td>
-  <td align="center" width="100">
-      <a href="#">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="JavaScript" />
-      </a>
-      <br>MySQL
-    </td>
-  <td align="center" width="100">
-      <a href="#">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="JavaScript" />
-      </a>
-      <br>MySQL
-    </td>
-  <td align="center" width="100">
-      <a href="#">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="JavaScript" />
-      </a>
-      <br>MySQL
-    </td>
-  <td align="center" width="100">
-      <a href="#">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="JavaScript" />
-      </a>
-      <br>MySQL
-    </td>
-  <td align="center" width="100">
-      <a href="#">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="JavaScript" />
-      </a>
-      <br>MySQL
+      <br>PostreSQL
     </td>
   </tr>
+  <td align="center" width="100">
+      <a href="#">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="JavaScript" />
+      </a>
+      <br>Prisma
+    </td>
 </table>
 
 ## 💡 My GitHub stats
