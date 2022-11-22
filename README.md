@@ -5,9 +5,7 @@
 <div align="center">I am a passionate learner who is always willing to learn and work across technologies and domains. 
 I love to explore new technologies and leverage them to solve real-life problems.</div>
 
-<br/>
 [![](https://visitcount.itsvg.in/api?id=NicoCastagnet&icon=2&color=12)](https://visitcount.itsvg.in)
-<br/>
 
 <p align="center"><b>Should you want to know more about me, feel free to read below!</b></p>
 
