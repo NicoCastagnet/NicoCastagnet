@@ -64,7 +64,7 @@ I love to explore new technologies and leverage them to solve real-life problems
     </td>
     <td align="center" width="100">
       <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="50" height="50" alt="JavaScript" />
+        <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/typescript.svg" width="50" height="50" alt="JavaScript" />
       </a>
       <br>TypeScript
     </td>
