@@ -37,7 +37,7 @@ I love to explore new technologies and leverage them to solve real-life problems
     </td>
     <td align="center"  width="100">
       <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" width="50" height="50" alt="Sass" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="50" height="50" alt="Sass" />
       </a>
       <br>Tailwind
     </td>
