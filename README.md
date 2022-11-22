@@ -14,7 +14,7 @@ I love to explore new technologies and leverage them to solve real-life problems
 </div>
 <br/>
 
-## 💻 **Technologies with which I have experience*
+## 💻 **Technologies with which I have experience**
 <table align="center">
   <tr>
     <td align="center" width="100">
