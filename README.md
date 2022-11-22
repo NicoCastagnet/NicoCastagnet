@@ -93,17 +93,9 @@ I love to explore new technologies and leverage them to solve real-life problems
 
 ## 💡 My GitHub stats
 <div align="center">
-<a href="https://github.com/NicoCastagnet">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NicoCastagnet&theme=github_dark&show_icons=true"/>
-  </a>
-  
-  <a href="https://github.com/NicoCastagnet">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicoCastagnet&theme=dark&layout=compact"/>
-  </a>
-  
-  <a href="https://github.com/NicoCastagnet">
-    <img height="180em" border="none" src="https://github-readme-streak-stats.herokuapp.com/?user=NicoCastagnet&theme=dark"/>
-  </a>
+![](https://github-readme-stats.vercel.app/api?username=NicoCastagnet&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=NicoCastagnet&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NicoCastagnet&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
   </div>
 
 
