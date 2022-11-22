@@ -5,12 +5,15 @@
 <div align="center">I am a passionate learner who is always willing to learn and work across technologies and domains. 
 I love to explore new technologies and leverage them to solve real-life problems.</div>
 
-[![](https://visitcount.itsvg.in/api?id=NicoCastagnet&icon=2&color=12)](https://visitcount.itsvg.in)
+<br/>
+<div align="center" id="badges">
+  <img src="https://visitcount.itsvg.in/api?id=NicoCastagnet&icon=2&color=5" alt=""/>
+</div>
+<br/>
 
 <p align="center"><b>Should you want to know more about me, feel free to read below!</b></p>
 
 ## 💻 **Technology Stack**
-
 <table align="center">
   <tr>
     <td align="center" width="100">
@@ -94,8 +97,9 @@ I love to explore new technologies and leverage them to solve real-life problems
     <img height="180em" border="none" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicoCastagnet&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
 </div>
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 📩 **Lets talk!**
-
 [![Gmail](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=nicolascastagnet002@gmail.com)]
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicolas-castagnet/)]
