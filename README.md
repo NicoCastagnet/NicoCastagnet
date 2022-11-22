@@ -92,11 +92,9 @@ I love to explore new technologies and leverage them to solve real-life problems
 </table>
 
 ## 💡 My GitHub stats
-<div align="center">
 ![](https://github-readme-stats.vercel.app/api?username=NicoCastagnet&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NicoCastagnet&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NicoCastagnet&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-  </div>
 
 
 ## 📩 **Lets talk!**
