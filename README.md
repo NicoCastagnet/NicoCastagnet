@@ -116,7 +116,7 @@ I love to explore new technologies and leverage them to solve real-life problems
     </td>
   <td align="center" width="100">
       <a href="#">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="JavaScript" />
+        <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/databases/postgresql.svg" width="50" height="50" alt="JavaScript" />
       </a>
       <br>PostreSQL
     </td>
