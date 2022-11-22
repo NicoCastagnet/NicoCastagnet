@@ -1,4 +1,4 @@
-<img src="./Banner.png" alt="LP_BANNER"/>
+<img src="https://rishavanand.github.io/static/images/greetings.gif" alt="banner"/>
 
 <h1>¡Hi! I'm Nicolás Castagnet 👨🏻‍💻</h1>
 
