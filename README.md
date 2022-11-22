@@ -1,4 +1,4 @@
-<img src="./Banner2.png" alt="LP_BANNER"/>
+<img src="./Banner.png" alt="LP_BANNER"/>
 
 <h1>¡Hi! I'm Nicolás Castagnet 👨🏻‍💻</h1>
 
