@@ -1,4 +1,4 @@
-<img align="center" alt="my-banner" width="auto" src="Banner.jpg">
+<img align="center" alt="my-banner" width="auto" src="Banner.png">
 
 <h1>Hi! I'm Nicolás Castagnet</h1>
 
