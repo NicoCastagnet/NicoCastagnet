@@ -1,4 +1,4 @@
-<img src="https://rishavanand.github.io/static/images/greetings.gif" alt="banner"/>
+<img src="./Gif.gif" alt="banner"/>
 
 <h1>¡Hi! I'm Nicolás Castagnet 👨🏻‍💻</h1>
 
