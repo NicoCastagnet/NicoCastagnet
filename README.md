@@ -2,9 +2,13 @@
 
 <h1 align="center">Hi! I'm Nicolás Castagnet 👨🏽‍💻 Front-End developer.</h1>
 
-<div align="center">I am a passionate learner who is always willing to learn and work across technologies and domains. 
+
+<div>
+<div align="left">I am a passionate learner who is always willing to learn and work across technologies and domains. 
 I love to explore new technologies and leverage them to solve real-life problems.</div>
 <br/>
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" margin="0 0 50px 0" alt="Computador iuriCode">
+</div>
 
 <p align="center"><b>Should you want to know more about me, feel free to read below!</b></p>
 
