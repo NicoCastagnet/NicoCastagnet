@@ -120,13 +120,13 @@ I love to explore new technologies and leverage them to solve real-life problems
       </a>
       <br>PostreSQL
     </td>
-  </tr>
   <td align="center" width="100">
       <a href="#">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="JavaScript" />
       </a>
       <br>Prisma
     </td>
+  </tr>
 </table>
 
 ## 💡 My GitHub stats
