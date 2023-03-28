@@ -18,38 +18,38 @@ I love to explore new technologies and leverage them to solve real-life problems
 <table align="center">
   <tr>
     <td align="center" width="100">
-      <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="50" height="50" alt="HTML5" />
+      <a href="https://html5.org">
+        <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="50" height="50" alt="HTML5" />
       </a>
       <br>HTML5
     </td>
     <td align="center" width="100">
       <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="50" height="50" alt="CSS3" />
+        <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="50" height="50" alt="CSS3" />
       </a>
       <br>CSS3
     </td>
     <td align="center"  width="100">
       <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" width="50" height="50" alt="Sass" />
+        <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" width="50" height="50" alt="Sass" />
       </a>
       <br>Sass
     </td>
     <td align="center"  width="100">
       <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="50" height="50" alt="Tailwind" />
+        <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" width="50" height="50" alt="Tailwind" />
       </a>
       <br>Tailwind
     </td>
     <td align="center" width="100">
       <a href="#">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50" alt="Bootstrap" />
+        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" width="50" height="50" alt="Bootstrap" />
       </a>
       <br>Bootstrap
     </td>
     <td align="center" width="100">
       <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="50" height="50" alt="Figma" />
+        <img src="https://cdn.worldvectorlogo.com/logos/figma-5.svg" width="50" height="50" alt="Figma" />
       </a>
       <br>Figma
     </td>
@@ -58,32 +58,32 @@ I love to explore new technologies and leverage them to solve real-life problems
   <tr>
     <td align="center" width="100">
       <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="50" height="50" alt="JavaScript" />
+        <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="50" height="50" alt="JavaScript" />
       </a>
       <br>JavaScript
     </td>
     <td align="center" width="100">
       <a href="#">
-        <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/typescript.svg" width="50" height="50" alt="TypeScript" />
+        <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" width="50" height="50" alt="TypeScript" />
       </a>
       <br>TypeScript
     </td>
     <td align="center" width="100">
       <a href="#">
-        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="50" height="50" alt="React" />
+        <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="50" height="50" alt="React" />
       </a>
       <br>React
     </td>
     <td align="center" width="100">
       <a href="#">
-        <img src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/redux.png" width="50" height="50" alt="Redux" />
+        <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="50" height="50" alt="Redux" />
       </a>
       <br>Redux
     </td>
     </td>
     <td align="center" width="100">
       <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="50" height="50" alt="NodeJS" />
+        <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="50" height="50" alt="NodeJS" />
       </a>
       <br>Node.js
     </td>
@@ -98,31 +98,31 @@ I love to explore new technologies and leverage them to solve real-life problems
    <tr>
     <td align="center" width="100">
       <a href="#">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git" />
+        <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" width="50" height="50" alt="Git" />
       </a>
       <br>Git
     </td>
     <td align="center" width="100">
       <a href="#">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="Github" />
+        <img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" width="50" height="50" alt="Github" />
       </a>
       <br>Github
     </td>
     <td align="center" width="100">
       <a href="#">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL" />
+        <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" width="50" height="50" alt="MySQL" />
       </a>
       <br>MySQL
     </td>
   <td align="center" width="100">
       <a href="#">
-        <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/databases/postgresql.svg" width="50" height="50" alt="PostgreSQL" />
+        <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" width="50" height="50" alt="PostgreSQL" />
       </a>
       <br>PostgreSQL
     </td>
   <td align="center" width="100">
       <a href="#">
-        <img src="https://cdn.worldvectorlogo.com/logos/prisma-3.svg" width="50" height="50" alt="Prisma" />
+        <img src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg" width="50" height="50" alt="Prisma" />
       </a>
       <br>Prisma
     </td>
