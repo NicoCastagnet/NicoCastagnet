@@ -37,19 +37,19 @@ I love to explore new technologies and leverage them to solve real-life problems
     </td>
     <td align="center"  width="100">
       <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="50" height="50" alt="Sass" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="50" height="50" alt="Tailwind" />
       </a>
       <br>Tailwind
     </td>
     <td align="center" width="100">
       <a href="#">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50" alt="Soon" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50" alt="Bootstrap" />
       </a>
       <br>Bootstrap
     </td>
     <td align="center" width="100">
       <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="50" height="50" alt="Soon" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="50" height="50" alt="Figma" />
       </a>
       <br>Figma
     </td>
@@ -64,7 +64,7 @@ I love to explore new technologies and leverage them to solve real-life problems
     </td>
     <td align="center" width="100">
       <a href="#">
-        <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/typescript.svg" width="50" height="50" alt="JavaScript" />
+        <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/typescript.svg" width="50" height="50" alt="TypeScript" />
       </a>
       <br>TypeScript
     </td>
@@ -89,7 +89,7 @@ I love to explore new technologies and leverage them to solve real-life problems
     </td>
     <td align="center" width="100">
       <a href="#">
-        <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="50" height="50" alt="NodeJS" />
+        <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="50" height="50" alt="NextJS" />
       </a>
       <br>Next.js
     </td>
@@ -98,33 +98,39 @@ I love to explore new technologies and leverage them to solve real-life problems
    <tr>
     <td align="center" width="100">
       <a href="#">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="HTML5" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git" />
       </a>
       <br>Git
     </td>
     <td align="center" width="100">
       <a href="#">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="CSS3" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="Github" />
       </a>
       <br>Github
     </td>
     <td align="center" width="100">
       <a href="#">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="JavaScript" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL" />
       </a>
       <br>MySQL
     </td>
   <td align="center" width="100">
       <a href="#">
-        <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/databases/postgresql.svg" width="50" height="50" alt="JavaScript" />
+        <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/databases/postgresql.svg" width="50" height="50" alt="PostgreSQL" />
       </a>
-      <br>PostreSQL
+      <br>PostgreSQL
     </td>
   <td align="center" width="100">
       <a href="#">
-        <img src="https://cdn.worldvectorlogo.com/logos/prisma-3.svg" width="50" height="50" alt="JavaScript" />
+        <img src="https://cdn.worldvectorlogo.com/logos/prisma-3.svg" width="50" height="50" alt="Prisma" />
       </a>
       <br>Prisma
+    </td>
+  <td align="center" width="100">
+      <a href="#">
+        <img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" width="50" height="50" alt="Framer Motion" />
+      </a>
+      <br>Framer Motion
     </td>
   </tr>
 </table>
