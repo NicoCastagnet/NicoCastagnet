@@ -1,4 +1,4 @@
-<img align="center" alt="My-banner" width="auto" src="Mail signature.jpg">
+<img align="center" alt="My-banner" width="auto" src="Github Banner.jpg">
 
 <h1 align="center">Hi! I'm Nicolás Castagnet 👨🏽‍💻 Front-End developer</h1>
 
